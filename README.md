@@ -5,7 +5,7 @@
 #### ✨ Who am I ✨
  💻 I’m currently learning AI & ML/DL and Data Analysis.
  
- ✏️ I'm majoring in International Trade.
+ ✏️ I majored in International Trade.
  
  🙋 How to reach me: xminjeongx@gmail.com
  
