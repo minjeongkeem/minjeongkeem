@@ -1,5 +1,4 @@
 ### Hi, I'm Minjeong Kim👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongkeem&layout=compact)](https://github.com/minjeongkeem/github-readme-stats)
 
 ---
 
