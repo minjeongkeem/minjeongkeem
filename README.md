@@ -1,16 +1,26 @@
-### Hi there I am Minjeong Kim👋
+### Hi, I'm Minjeong Kim👋
 
-<!--
-**minjeongkeem/minjeongkeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### ✨ Who am I ✨
+ 💻 I’m currently learning AI & ML/DL and Data Analysis.
+ ✏️ I'm majoring in International Trade.
+ 🙋 How to reach me: xminjeongx@gmail.com
+ 
+ ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💡 Experience 💡
+🏢 Worked as Associate in Sales and Operation Planning team, Celltrion, Incheon (2019.12 ~ 2022.07)
+🏢 Worked as Intern in Starex AD team, Lotte Advanced Mateiral GmbH, Frankfurt (2018.09 ~ 2019.02)
+🏢 Worked as Intern in HR team, Thinkware, Seongnam (2018.03 ~ 2018.07)
+
+---
+
+#### 📌 Tech Stack 📌 
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-#F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-#007ACC?style=for-the-badge&logo=VSCode&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-#5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO-#00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-#D00000?style=for-the-badge&logo=Keras&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
