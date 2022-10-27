@@ -4,14 +4,18 @@
 
 #### ✨ Who am I ✨
  💻 I’m currently learning AI & ML/DL and Data Analysis.
+ 
  ✏️ I'm majoring in International Trade.
+ 
  🙋 How to reach me: xminjeongx@gmail.com
  
  ---
 
 #### 💡 Experience 💡
 🏢 Worked as Associate in Sales and Operation Planning team, Celltrion, Incheon (2019.12 ~ 2022.07)
+
 🏢 Worked as Intern in Starex AD team, Lotte Advanced Mateiral GmbH, Frankfurt (2018.09 ~ 2019.02)
+
 🏢 Worked as Intern in HR team, Thinkware, Seongnam (2018.03 ~ 2018.07)
 
 ---
