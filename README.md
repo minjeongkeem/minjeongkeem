@@ -5,13 +5,20 @@
 #### ✨ Who am I ✨
  💻 I’m currently learning AI & ML/DL and Data Analysis.
  
- ✏️ I majored in International Trade.
+ 🎓 I majored in International Trade.
  
  🙋 How to reach me: xminjeongx@gmail.com
  
  ---
+ 
+ #### 	📚 Education 📚
+ 
+ 🏫 Completed POSCO AI/Big data Academy, Postech, Pohang (2022.07 ~ 2022.09)
+ 
 
-#### 💡 Experience 💡
+---
+
+#### 💡 Work Experience 💡
 🏢 Worked as Associate in Sales and Operation Planning team, Celltrion, Incheon (2019.12 ~ 2022.07)
 
 🏢 Worked as Intern in Starex AD team, Lotte Advanced Mateiral GmbH, Frankfurt (2018.09 ~ 2019.02)
