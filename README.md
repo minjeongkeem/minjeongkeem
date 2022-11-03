@@ -1,9 +1,6 @@
 ### Hi, I'm Minjeong Kim👋
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongkeem&layout=compact)](https://github.com/minjeongkeem/github-readme-stats)
-
----
 
 #### ✨ Who am I ✨
  💻 I’m currently learning AI & ML/DL and Data Analysis.
@@ -32,3 +29,6 @@
 
 #### 📌 Tech Stack 📌 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongkeem&layout=compact)](https://github.com/minjeongkeem/github-readme-stats)
